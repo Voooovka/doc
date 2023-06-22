@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.4.3",
+    "react-validation": "^3.0.7",
+    "redux": "^4.2.0",
+    "validator": "^13.7.0"
+  }
+}
